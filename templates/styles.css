@@ -1,0 +1,22 @@
+.center {
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+body {
+  height: 100vh;
+  width: 30vw;
+
+  position: fixed;
+  z-index: 5;
+  background-color: lightseagreen;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
